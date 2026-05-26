@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchctringify",
+        "uuid": 15902298,
+        "checksum": "r2sq1l"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
