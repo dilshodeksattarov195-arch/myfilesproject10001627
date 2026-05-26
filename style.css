@@ -1,0 +1,10 @@
+body { background: #822153; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 40px; display: flex; }
+.block-session-0 { color: #f97de3; font-size: 16px; margin-bottom: 5px; }
+.block-cache-1 { color: #b50a6c; font-size: 20px; margin-bottom: 5px; }
+.block-sms-2 { color: #8c920d; font-size: 14px; margin-bottom: 5px; }
+.block-metrics-3 { color: #926dbd; font-size: 21px; margin-bottom: 5px; }
+.block-token-4 { color: #5cebcb; font-size: 16px; margin-bottom: 5px; }
+.block-database-5 { color: #87a5fe; font-size: 14px; margin-bottom: 5px; }
+.block-metrics-6 { color: #f0175f; font-size: 21px; margin-bottom: 5px; }
+.block-token-7 { color: #cba82c; font-size: 18px; margin-bottom: 5px; }
